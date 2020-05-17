@@ -1,2 +1,2 @@
 # MyResume
-This is my current Resume
+My updated Resume
